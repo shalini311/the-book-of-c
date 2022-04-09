@@ -1,6 +1,9 @@
 #include <stdio.h>
 
 int main (int argc, char* argv[] ){
+  int num1=0,num2=0,ans=0;
+  prinf("Enter two numbers);
+  scanf("%d %d",&num1,&num2);      
   /* Write a calculator program using switch case 
    * Input format --> operand operator operand
    * E.g 
